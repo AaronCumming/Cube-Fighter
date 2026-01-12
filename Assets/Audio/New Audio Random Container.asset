@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-6037590587768263984
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hytale OST - Herbalists Refuge [TubeRipper.com]_{-6037590587768263984}
+  m_AudioClip: {fileID: 8300000, guid: f274b8943d20d8f48aa88c122e488c68, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5128387551084837776
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hytale OST - Kweebec Village [TubeRipper.com]_{-5128387551084837776}
+  m_AudioClip: {fileID: 8300000, guid: 96cf89b49a3e7ce44a4e654f79332b45, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &961653402284553178
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hytale OST - A New Adventure [TubeRipper.com]_{961653402284553178}
+  m_AudioClip: {fileID: 8300000, guid: 485e9d8640d535f48b160ccfe3baa2fa, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2932546833591247922
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hytale OST - Traveling Band [TubeRipper.com]_{2932546833591247922}
+  m_AudioClip: {fileID: 8300000, guid: f16a2f38a71526b44881696f72d6d404, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5274923519568144722
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hytale OST - Heroes of Orbis [TubeRipper.com]_{5274923519568144722}
+  m_AudioClip: {fileID: 8300000, guid: aa63f5d4008b0ac49913daedce12547e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Audio Random Container
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 4
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: -2, y: 2}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 961653402284553178}
+  - {fileID: -6037590587768263984}
+  - {fileID: 5274923519568144722}
+  - {fileID: -5128387551084837776}
+  - {fileID: 2932546833591247922}
+  m_AvoidRepeatingLast: 3
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 1
+  m_LoopCountRandomizationEnabled: 0
