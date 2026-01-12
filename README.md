@@ -56,8 +56,6 @@ git clone https://github.com/your-username/cube-fighter.git
 
 2. Click Open Project and select the cloned project folder
 
-3. Ensure you are using the Unity version specified in the project
-
 4. Open the main scene
 
 5. Customize game or press play in the Unity Editor 
