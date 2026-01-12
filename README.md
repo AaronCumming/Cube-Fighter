@@ -1,10 +1,12 @@
-# Overview
+# Cube Fighter
+
+## Overview
 
 Cube Fighter is a fast-paced, survival-style arcade game, developed in Unity. The game focuses on defeating increasingly difficult waves of enemies while surviving as long as possible in a minimal, cube-based arena.
 
 This project was built to explore enemy spawning systems, player progression, and real-time combat mechanics using custom C# scripts and original game design.
 
-# Features
+## Features
 
 ### Survival-Style Gameplay
 
@@ -36,7 +38,7 @@ This project was built to explore enemy spawning systems, player progression, an
 
 - Fully original mechanics and implementation
 
-# Tech Stack
+## Tech Stack
 
 - Engine: Unity
 
@@ -46,7 +48,7 @@ This project was built to explore enemy spawning systems, player progression, an
 
 - Version Control: Git / GitHub
 
-# How to Edit or Run
+## How to Edit or Run
 1. Clone the repository:
 ```
 git clone https://github.com/your-username/cube-fighter.git
